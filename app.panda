@@ -1,9 +1,9 @@
 module panda-dependency
 
-open type PandaDependency {
+open type CyaffleDependency {
 
     open static getMessage () -> String {
-        return 'Hello Panda'
+        return 'Hello Cyaffle'
     }
 
 }
