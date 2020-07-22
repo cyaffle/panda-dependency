@@ -3,3 +3,4 @@ Example dependency for [PMM test](https://github.com/panda-lang/panda/tree/maste
 
 #### Submodules
 * [piotrpiatyszek/panda-dependency](https://github.com/piotrpiatyszek/panda-dependency)
+* [cyaffle/panda-dependency](https://github.com/cyaffle/panda-dependency)
